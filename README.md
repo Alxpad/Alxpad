@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An electronics engineer who wants to play his part in the future that lies ahead.</h3>
 
-- 🌱 I’m currently learning **Machine Learning using Scikit-Learn, as well as Python. I want to be able to develop AIoT solutions.**
+- 🌱 I’m currently learning: **Machine Learning using Scikit-Learn, as well as Python. I want to be able to develop AIoT solutions.**
 
-- 📫 How to reach me **alexparo89@yahoo.com**
+- 📫 How to reach me: **alexparo89@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alejpad/](https://www.linkedin.com/in/alejpad/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/alejpad/](https://www.linkedin.com/in/alejpad/)
 
-- ⚡ Fun fact **I am a 93% sure that I am a 4th level mage, but this dungeon is getting weird as f*****
+- ⚡ Fun fact: **I am a 93% sure that I am a 4th level mage, but this dungeon is getting weird as f*****
+
+- 🔎 Looking for: **Internship/employment preferably as automation developer/electronics or hardware engineer in 📌Málaga, Spain📌 (might consider telework as well)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
