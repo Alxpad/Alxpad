@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I am a 93% sure that I am a 4th level mage, but this dungeon is getting weird as f*****
 
-- 🔎 Looking for: **Internship/employment preferably as automation developer/electronics or hardware engineer in 📌Málaga, Spain📌 (might consider telework as well)
+- 🔎 Looking for: **Internship/employment preferably as automation developer/electronics or hardware engineer in 📌Málaga, Spain📌 (might consider telework as well)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
