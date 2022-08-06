@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/alejpad/](https://www.linkedin.com/in/alejpad/)
 
-- ⚡ Fun fact: **I am a 93% sure that I am a 4th level mage, but this dungeon is getting weird as f*****
+- ⚡ Fun fact: **I am a 93% sure that I am a 4th level mage🧙‍♂️, but this dungeon is getting weird as f*****
 
 - 🔎 Looking for: **Internship/employment preferably as automation developer/electronics or hardware engineer in 📌Málaga, Spain📌 (might consider telework as well)**
 
