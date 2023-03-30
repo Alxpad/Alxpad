@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An electronics engineer who wants to play his part in the future that lies ahead.</h3>
 
-- 🌱 I’m currently learning: **Machine Learning using Scikit-Learn, as well as Python. I want to be able to develop AIoT solutions.**
+- 🌱 I’m currently learning: **Electronics engineering & Machine-learning. I want to be able to develop AIoT solutions.**
 
 - 📫 How to reach me: **alexparo89@yahoo.com**
 
