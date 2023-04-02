@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/alejpad/](https://www.linkedin.com/in/alejpad/)
 
-- ⚡ Fun fact: **I am a 93% sure that I am a 4th level mage🧙‍♂️, but this dungeon is getting weird as f*****
+- ⚡ Fun fact: **I like to organize myself with paper notebooks. I usually use a notebook for each topic or project... There came a moment when I needed a notebook to organize my notebooks...I decided to start using evernote...And now I'm starting to think I need a notebook to remember what things I write down in my evernote. This is hell.**
 
 - 🔎 Looking for: **Internship/employment preferably related to automation, electronics or IoT engineering in 📌Málaga, Spain📌 (might consider telework as well)**
 
