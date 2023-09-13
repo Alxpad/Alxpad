@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Electronics engineering & Machine-learning. I want to be able to develop AIoT solutions.**
 
-- 📫 How to reach me: **alexparo89@yahoo.com**
+- 📫 How to reach me: **alxpadilla@yahoo.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/alejpad/](https://www.linkedin.com/in/alejpad/)
 
