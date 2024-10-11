@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An electronics engineer who wants to play his part in the future that lies ahead.</h3>
 
-- 🌱 I am **Electronics engineering & Machine-learning. I want to be able to develop AIoT solutions.**
+- 🌱 I am an **Electronics engineer, currently working on embedded solutions**
 
 - 📫 How to reach me: **alxpadilla@yahoo.com**
 
